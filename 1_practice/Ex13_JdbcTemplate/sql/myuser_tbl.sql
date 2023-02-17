@@ -1,0 +1,5 @@
+CREATE TABLE myuser(
+	id VARCHAR(10),
+	NAME VARCHAR(10)
+
+);

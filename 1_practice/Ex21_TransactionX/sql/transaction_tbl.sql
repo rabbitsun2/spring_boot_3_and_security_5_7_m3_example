@@ -1,0 +1,17 @@
+
+CREATE TABLE TRANSACTION1(
+	consumerid VARCHAR(20),
+	amount INT
+);
+
+CREATE TABLE TRANSACTION2(
+	consumerid VARCHAR(20),
+	amount INT
+);
+
+CREATE TABLE TRANSACTION3(
+	consumerid VARCHAR(20),
+	amount INT
+);
+
+COMMIT;

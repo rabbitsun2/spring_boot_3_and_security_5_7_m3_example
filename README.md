@@ -13,3 +13,6 @@
 ##### 2. Project Lombok, https://projectlombok.org, Accessed by 2023-02-17, Last Modified 2023-02-17.
 ##### 3. Spring | Home, https://spring.io, Accessed by 2023-02-17, Last Modified 2023-02-17.
 ##### 4. 표준프레임워크 포털 eGovFrame, https://www.egovframe.go.kr, Accessed by 2023-02-17, Last Modified 2023-02-17.
+##### 5. Spring Security without WebSecurityConfigurerAdapter (Deprecated), https://www.javaguides.net/2022/08/spring-security-without-webSecurityconfigureradapter.html Accessed by 2023-02-17, Last Modified 2022-08.
+##### 6. 10 Deprecated WebSecurityConfigurerAdapter in Spring Security 5.7 | Authentication | Authorization, https://www.youtube.com/watch?v=9gjyCmoGdYE, Accessed by 2023-02-17, Last Modified 2022-04.
+##### 7. Spring Boot How to use Gradle to build War File and deploy on Tomcat Server, https://www.youtube.com/watch?v=OEx_V1q04tg, Accessed by 2023-02-17, Last Modified 2021-02.
